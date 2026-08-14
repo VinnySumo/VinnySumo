@@ -58,16 +58,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=000000&title_color=29B6F6&icon_color=29B6F6&text_color=64B5F6&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=000000&title_color=29B6F6&text_color=64B5F6&langs_count=8" alt="Top Langs" />
+  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=29B6F6&icon_color=29B6F6&text_color=64B5F6&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=29B6F6&text_color=64B5F6&langs_count=8" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=000000&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=64B5F6&currStreakNum=64B5F6&sideNums=64B5F6&dates=64B5F6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=64B5F6&currStreakNum=64B5F6&sideNums=64B5F6&dates=64B5F6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=000000&color=29B6F6&line=29B6F6&point=64B5F6&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=29B6F6&line=29B6F6&point=64B5F6&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
