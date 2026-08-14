@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=64B5F6&currStreakNum=64B5F6&sideNums=64B5F6&dates=64B5F6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=64B5F6&currStreakNum=64B5F6&sideNums=64B5F6&dates=64B5F6&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
