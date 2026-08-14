@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0288D1,100:81D4FA&height=200&section=header&text=Vynicios%20Raphael&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor(a)%20em%20evolu%C3%A7%C3%A3o&descAlignY=55&descSize=18&descColor=E1F5FE&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0288D1,100:81D4FA&height=200&section=header&text=Vynicios%20Raphael&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o&descAlignY=55&descSize=18&descColor=E1F5FE&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0288D1&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor(a)%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0288D1&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" alt="Typing SVG" />
 
 </div>
 
@@ -58,16 +58,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=E1F5FE&title_color=0288D1&icon_color=0288D1&text_color=01579B&border_color=81D4FA&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=E1F5FE&title_color=0288D1&text_color=01579B&border_color=81D4FA&langs_count=8" alt="Top Langs" />
+  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=000000&title_color=29B6F6&icon_color=29B6F6&text_color=64B5F6&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=000000&title_color=29B6F6&text_color=64B5F6&langs_count=8" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=E1F5FE&ring=0288D1&fire=0288D1&currStreakLabel=0288D1&sideLabels=01579B&currStreakNum=01579B&sideNums=01579B&dates=0288D1&stroke=81D4FA" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=000000&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=64B5F6&currStreakNum=64B5F6&sideNums=64B5F6&dates=64B5F6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=E1F5FE&color=0288D1&line=0288D1&point=01579B&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=000000&color=29B6F6&line=29B6F6&point=64B5F6&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VinnySumo&label=Visitas+ao+perfil&color=0288D1&style=for-the-badge&labelColor=E1F5FE" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=VinnySumo&label=Visitas+ao+perfil&color=29B6F6&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 
 <br><br>
 
