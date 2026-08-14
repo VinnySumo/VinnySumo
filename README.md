@@ -84,7 +84,6 @@
   </picture>
 </p>
 
-<p align="center"><sub><i>A cobrinha aparece após o workflow "Snake" rodar pela primeira vez (aba Actions).</i></sub></p>
 
 ---
 
