@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Sobre mim
 
-<!--
-**VinnySumo/VinnySumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Objetivo atual
 
-Here are some ideas to get you started:
+🌱 Evoluindo como desenvolvedor(a) front-end, um projeto de cada vez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando JavaScript e React na prática
+
+💬 Aberto(a) a trocar ideia sobre front-end, código e boas práticas
+
+📫 Contato: adicione aqui seu e-mail, LinkedIn ou portfólio
+
+🛠️ Tecnologias
+
+📌 Projetos em destaque
+
+📊 GitHub Analytics
+
+🐍 Cobrinha comendo o gráfico de contribuições
