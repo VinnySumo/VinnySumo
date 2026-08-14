@@ -15,7 +15,7 @@
 - 📚 Estudando JavaScript e React
 - 🧠 Aprendendo Python, Java, Delphi e C++
 - 💬 Aberto(a) a trocar ideia sobre código e boas práticas
-- 📫 **Contato:** _adicione aqui seu e-mail, LinkedIn ou portfólio_
+- 📫 **Contato:** 
 
 ---
 
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<p align="center"><sub><i>Troque os links acima pelos seus repositórios em destaque.</i></sub></p>
+
 
 ---
 
