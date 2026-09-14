@@ -24,6 +24,7 @@
 - 🧠 Aprendendo Python, Java, Delphi e C++
 - 💬 Aberto(a) a trocar ideia sobre código e boas práticas
 - 📫 **Contato:** [vinnyrafael015@hotmail.com](mailto:vinnyrafael015@hotmail.com)
+- 🌐 **Portfólio:** [vkportifolio.vercel.app](https://vkportifolio.vercel.app/)
 
 ---
 
