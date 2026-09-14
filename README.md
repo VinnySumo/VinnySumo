@@ -1,8 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0288D1,100:81D4FA&height=200&section=header&text=Vynicios%20Raphael&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o&descAlignY=55&descSize=18&descColor=E1F5FE&animation=fadeIn" alt="banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Vynicios%20Raphael&fontSize=48&fontColor=000000&fontAlignY=38&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o&descAlignY=55&descSize=18&descColor=000000&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Vynicios%20Raphael&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o&descAlignY=55&descSize=18&descColor=ffffff&animation=fadeIn" />
+  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Vynicios%20Raphael&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o&descAlignY=55&descSize=18&descColor=ffffff&animation=fadeIn" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0288D1&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" />
+</picture>
 
 </div>
 
@@ -22,17 +30,17 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img alt="HTML5" title="HTML5" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Node.js" title="Node.js" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" title="Python" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Delphi" title="Delphi" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />
-  <img alt="C++" title="C++" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Git" title="Git" width="48" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=black&labelColor=ffffff" />
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=black&labelColor=ffffff" />
+  <img alt="React" title="React" src="https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+  <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=ffffff" />
+  <img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img alt="Java" title="Java" src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=ffffff" />
+  <img alt="Delphi" title="Delphi" src="https://img.shields.io/badge/-Delphi-ffffff?style=for-the-badge&logo=delphi&logoColor=white&labelColor=000000" />
+  <img alt="C++" title="C++" src="https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=ffffff" />
+  <img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 </p>
 
 ---
@@ -41,13 +49,13 @@
 
 <p align="center">
   <a href="https://github.com/VinnySumo?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projeto%201-0288D1?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Projeto%201-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://github.com/VinnySumo?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projeto%202-29B6F6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Projeto%202-000000?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" />
   </a>
   <a href="https://github.com/VinnySumo?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projeto%203-4FC3F7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Projeto%203-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -58,16 +66,32 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=29B6F6&icon_color=29B6F6&text_color=64B5F6&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Vynicios%20Raphael" alt="GitHub Stats" />
-  <img height="180" style="vertical-align:top;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=29B6F6&text_color=64B5F6&langs_count=8" alt="Top Langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&text_color=C9C9C9&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Vynicios%20Raphael" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&ring_color=000000&text_color=333333&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Vynicios%20Raphael" />
+  <img height="180" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&ring_color=000000&text_color=333333&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Vynicios%20Raphael" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9C9C9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&langs_count=8" />
+  <img height="180" alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&langs_count=8" />
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=64B5F6&currStreakNum=64B5F6&sideNums=64B5F6&dates=64B5F6&v=2" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=C9C9C9&stroke=C9C9C9&v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&sideNums=333333&dates=333333&stroke=333333&v=3" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&sideNums=333333&dates=333333&stroke=333333&v=3" />
+</picture>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=29B6F6&line=29B6F6&point=64B5F6&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=C9C9C9&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=333333&title_color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" />
+  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=333333&title_color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" />
+</picture>
 </p>
 
 ---
@@ -89,10 +113,14 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VinnySumo&label=Visitas+ao+perfil&color=29B6F6&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=VinnySumo&label=Visitas+ao+perfil&color=ffffff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:81D4FA,100:0288D1&height=120&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+</picture>
 
 </div>
