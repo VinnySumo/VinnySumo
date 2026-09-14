@@ -23,7 +23,7 @@
 - 📚 Estudando JavaScript e React
 - 🧠 Aprendendo Python, Java, Delphi e C++
 - 💬 Aberto(a) a trocar ideia sobre código e boas práticas
-- 📫 **Contato:** 
+- 📫 **Contato:** [vinnyrafael015@hotmail.com](mailto:vinnyrafael015@hotmail.com)
 
 ---
 
@@ -31,15 +31,15 @@
 
 <p align="center">
   <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
-  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=black&labelColor=ffffff" />
+  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css&logoColor=white&labelColor=000000" />
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
-  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=black&labelColor=ffffff" />
+  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
   <img alt="React" title="React" src="https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-  <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=ffffff" />
+  <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
   <img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-  <img alt="Java" title="Java" src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=ffffff" />
+  <img alt="Java" title="Java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
   <img alt="Delphi" title="Delphi" src="https://img.shields.io/badge/-Delphi-ffffff?style=for-the-badge&logo=delphi&logoColor=white&labelColor=000000" />
-  <img alt="C++" title="C++" src="https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=ffffff" />
+  <img alt="C++" title="C++" src="https://img.shields.io/badge/-C%2B%2B-ffffff?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
   <img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 </p>
 
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/-Projeto%201-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://github.com/VinnySumo?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projeto%202-000000?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Projeto%202-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://github.com/VinnySumo?tab=repositories">
     <img src="https://img.shields.io/badge/-Projeto%203-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
@@ -80,17 +80,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=C9C9C9&stroke=C9C9C9&v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&sideNums=333333&dates=333333&stroke=333333&v=3" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&sideNums=333333&dates=333333&stroke=333333&v=3" />
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=C9C9C9&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=333333&title_color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" />
-  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VinnySumo&bg_color=00000000&color=333333&title_color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=Vynicios%20Raphael%27s%20Contribution%20Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=C9C9C9&stroke=C9C9C9&v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&sideNums=333333&dates=333333&stroke=333333&v=4" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=VinnySumo&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&sideNums=333333&dates=333333&stroke=333333&v=4" />
 </picture>
 </p>
 
@@ -113,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VinnySumo&label=Visitas+ao+perfil&color=ffffff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=VinnySumo&label=Visitas+ao+perfil&color=000000&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
