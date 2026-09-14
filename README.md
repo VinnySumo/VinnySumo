@@ -12,6 +12,10 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" />
 </picture>
 
+<a href="https://vkportifolio.vercel.app/">
+  <img alt="Portfólio" src="https://img.shields.io/badge/-Portf%C3%B3lio-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+
 </div>
 
 <br>
