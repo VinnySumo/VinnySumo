@@ -15,6 +15,9 @@
 <a href="https://vkportifolio.vercel.app/">
   <img alt="Portfólio" src="https://img.shields.io/badge/-Portf%C3%B3lio-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
+<a href="https://www.linkedin.com/in/vynicios-rafa/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
 
 </div>
 
