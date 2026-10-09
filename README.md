@@ -12,12 +12,11 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Evoluindo+como+desenvolvedor%2C+um+projeto+de+cada+vez+%F0%9F%8C%B1;Estudando+JavaScript+e+React+na+pr%C3%A1tica+%F0%9F%93%9A;Aprendendo+Python%2C+Java%2C+Delphi+e+C%2B%2B+%F0%9F%92%BB;Aberto(a)+a+trocar+ideia+sobre+c%C3%B3digo+e+boas+pr%C3%A1ticas+%F0%9F%92%AC" />
 </picture>
 
-<a href="https://vkportifolio.vercel.app/">
-  <img alt="Portfólio" src="https://img.shields.io/badge/-Portf%C3%B3lio-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.linkedin.com/in/vynicios-rafa/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
+<p align="center">
+  <a href="https://vkportifolio.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/-Portf%C3%B3lio-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vynicios-rafa/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+</p>
 
 </div>
 
@@ -38,15 +37,25 @@
 
 <p align="center">
   <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="CSS" title="CSS" src="https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="React" title="React" src="https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="Java" title="Java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="Delphi" title="Delphi" src="https://img.shields.io/badge/-Delphi-ffffff?style=for-the-badge&logo=delphi&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="C++" title="C++" src="https://img.shields.io/badge/-C%2B%2B-ffffff?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
   <img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 </p>
 
@@ -58,9 +67,11 @@
   <a href="https://github.com/VinnySumo?tab=repositories">
     <img src="https://img.shields.io/badge/-Projeto%201-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/VinnySumo?tab=repositories">
     <img src="https://img.shields.io/badge/-Projeto%202-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/VinnySumo?tab=repositories">
     <img src="https://img.shields.io/badge/-Projeto%203-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
@@ -78,6 +89,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&ring_color=000000&text_color=333333&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Vynicios%20Raphael" />
   <img height="180" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=VinnySumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&ring_color=000000&text_color=333333&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Vynicios%20Raphael" />
 </picture>
+&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9C9C9&langs_count=8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=VinnySumo&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&langs_count=8" />
